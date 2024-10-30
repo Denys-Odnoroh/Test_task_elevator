@@ -1,0 +1,39 @@
+﻿  Building Custom Rule C:/Users/2210d/Downloads/Test_task_elevator-master/Elevator/CMakeLists.txt
+  main.cpp
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\main.cpp(25,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\main.cpp(25,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  CallElevatorButton.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\2210d\Downloads\Test_task_elevator-master\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+  ElevatorPlatform.cpp
+  ElevatorShaft.cpp
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\ElevatorShaft.cpp(6,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ElevatorDoor.cpp
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\ElevatorDoor.cpp(35,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\ElevatorDoor.cpp(41,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  BoundingBox.cpp
+  FloorButton.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\2210d\Downloads\Test_task_elevator-master\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+  DoorButton.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\2210d\Downloads\Test_task_elevator-master\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+  Elevator.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\2210d\Downloads\Test_task_elevator-master\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+  Engine.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\2210d\Downloads\Test_task_elevator-master\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+  Button.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\2210d\Downloads\Test_task_elevator-master\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+  Camera.cpp
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\Camera.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\Camera.cpp(39,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\Camera.cpp(45,69): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\Camera.cpp(46,69): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\Camera.cpp(97,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Point.cpp
+  Generating Code...
+C:\Users\2210d\Downloads\Test_task_elevator-master\Elevator\main.cpp(225): warning C4715: 'glInit': not all control paths return a value
+  Elevator.vcxproj -> C:\Users\2210d\Downloads\Test_task_elevator-master\build\Elevator\Release\Elevator.exe

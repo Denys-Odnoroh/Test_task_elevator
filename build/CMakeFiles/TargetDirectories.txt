@@ -1,0 +1,3 @@
+C:/Users/2210d/Downloads/Test_task_elevator-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/2210d/Downloads/Test_task_elevator-master/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/2210d/Downloads/Test_task_elevator-master/build/Elevator/CMakeFiles/Elevator.dir
